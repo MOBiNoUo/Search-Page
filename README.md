@@ -13,5 +13,5 @@ Full Responsive
 
 ## Preview - پیشنمایش
 
-Link : [Ouomen.ir/templates/seacrh/](https://ouomen.ir/templates/search/)
-- لینک : [Ouomen.ir/templates/search/](https://ouomen.ir/templates/sa-mp-search/)
+Link : [Ouomen.ir/templates/seacrh/ (IranSans)](https://ouomen.ir/templates/search/)
+- لینک : [ (IranSans) Ouomen.ir/templates/search/](https://ouomen.ir/templates/sa-mp-search/)
