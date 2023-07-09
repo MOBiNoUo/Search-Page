@@ -2,13 +2,13 @@
 
 # Features - امکانات
 
-Fast Load
+-Fast Load
 - بارگزاری سریع
-List Of Most Used Websites
+-List Of Most Used Websites
 - لیست وب سایت های پر استفاده
-Google Search Engine
+-Google Search Engine
 - موتور جستوجوی گوگل
-Full Responsive
+-Full Responsive
 - کاملا واکنش گرا
 
 ## Preview - پیشنمایش
