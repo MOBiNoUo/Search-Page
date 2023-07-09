@@ -1,0 +1,19 @@
+@font-face {font-family: vazir;src: url(../font/Vazirmatn-Black.woff2);}
+body {background-color: #2f3041;font-family: vazir;}
+input {font-family: vazir;}
+.searchbox {border:none;border-radius:5vh;width:80%;height:5vh;text-align:center;}
+#search-area {margin-top:15vh;}
+.white {color: white;}
+a:link {color: white;text-decoration:none;}
+a:visited {color: white;text-decoration:none;}
+a:active {color:white;text-decoration:none;}
+.right {float: right;}
+.left {float: left;}
+.pages {margin-top: 10vh; color: white;}
+.pages-item-right {float: right;background-color: #2f3041; box-shadow: 1px 1px 16px rgb(255 255 255); width: 45%;border-radius: 2.5px;margin-right: 5vh;}
+.pages-item-left {float: left;background-color: #2f3041; box-shadow: 1px 1px 16px rgb(255 255 255); width: 45%;border-radius: 2.5px;margin-left: 5vh;}
+@media (max-width: 576px) {.pages-item-right {width: 90%;}} 
+@media (max-width: 576px) {.pages-item-left {width: 90%;margin-top: 5vh;margin-right: 5vh;}} 
+.icon {padding-right:5vh;margin-left:2vh;float:right;padding-top: 3vh;}
+.content {text-align:right;}
+.margintop {margin-top: 5vh;}
